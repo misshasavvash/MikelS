@@ -5,5 +5,6 @@ LAB_Logging
 - Ввод колличетва бочек
 - Вывод результата(поочередно)
 # Скриншоты тестов приведены ниже:
-#![тест 1](https://github.com/misshasavvash/MikelS/assets/146664036/6cf41858-f8e8-4250-b598-475d96b1edc8)
-#![тест 2](https://github.com/misshasavvash/MikelS/assets/146664036/8c6ba233-d175-424c-a252-41c59c13ef72)
+# ![тест 1](https://github.com/misshasavvash/MikelS/assets/146664036/1f3ad5dc-7e84-45a4-8335-3a84c7f9eba7)
+
+
